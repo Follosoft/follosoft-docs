@@ -4,6 +4,7 @@ sidebar_label: Changelog
 description: The latest updates and changes to CodeRabbit.
 sidebar_position: 13
 ---
+# Let's make a test from stackedit.io
 
 ## December 23, 2024
 
@@ -399,5 +400,5 @@ instructions: Review the following unit test code written using the Mocha test l
 
 CodeRabbit is now available for GitLab! We know many of you have been waiting for this integration. Thank you for your patience. Sign up for the free trial!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxNzU3ODhdfQ==
+eyJoaXN0b3J5IjpbNzgwMzQ5MzkzXX0=
 -->
